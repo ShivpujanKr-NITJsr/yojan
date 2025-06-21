@@ -1,0 +1,54 @@
+{
+  "name": "yojan",
+  "version": "1.0.3",
+  "type": "module",
+  "main": "dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./router": "./dist/router/index.js"
+  },
+  "bin": {
+    "yojan": "./dist/cli/index.js"
+  },
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "vite": "*"        
+  },
+  "dependencies": {
+    "micromatch": "^4.0.8"
+  },
+  "devDependencies": {
+    "@types/micromatch": "^4.0.9", 
+    "typescript": "^5.4.5",        
+    "vite": "^6.3.5"              
+  },"keywords": [
+  "vite",
+  "vite-plugin",
+  "vite-router",
+  "file-based-routing",
+  "dynamic routes",
+  "ssr",
+  "ssg",
+  "csr",
+  "isr",
+  "yojan",
+  "vite dynamic routing",
+  "vite route generator",
+  "react",
+  "plugin",
+  "automatic routing",
+  "nextjs-style routing",
+  "vite-pages",
+  "custom router"
+],
+  "author": "Shivpujan Kumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
