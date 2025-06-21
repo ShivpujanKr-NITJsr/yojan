@@ -1,6 +1,6 @@
 {
   "name": "yojan",
-  "version": "1.0.3",
+  "version": "1.0.41",
   "type": "module",
   "main": "dist/index.js",
   "exports": {

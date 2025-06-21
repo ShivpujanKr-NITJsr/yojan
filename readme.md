@@ -47,7 +47,8 @@ src/pages/
   ├── index.tsx        → "/"
   ├── about.tsx        → "/about"
   ├── [user].tsx       → "/:user"
-  ├── (admin)/home.tsx → "/admin/home" (if grouping enabled)
+  ├── (admin)/home.tsx → "/admin/home" (if grouping not enabled)
+  ├── (admin)/home.tsx → "/home" (if grouping enabled)
 ```
 
 ---
