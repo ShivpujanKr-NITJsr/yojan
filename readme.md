@@ -246,23 +246,4 @@ MIT
 
 Built with 💛 by Shivpujan Kumar
 
-"keywords": [
-  "vite",
-  "vite-plugin",
-  "vite-router",
-  "file-based-routing",
-  "dynamic routes",
-  "ssr",
-  "ssg",
-  "csr",
-  "isr",
-  "yojan",
-  "vite dynamic routing",
-  "vite route generator",
-  "react",
-  "plugin",
-  "automatic routing",
-  "nextjs-style routing",
-  "vite-pages",
-  "custom router"
-]
+> Keywords: vite, vite-plugin, vite-router, dynamic routes, ssr, ssg, csr, isr, yojan, react, file-based routing
